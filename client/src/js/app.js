@@ -6,7 +6,7 @@
  **********************************************/
 
 (function(){
-  window.serverURI = 'http://localhost:3000';
+  window.serverURI = 'http://65.21.55.66:3000';
   window.onresize = onresize;
   window.onbeforeunload = () => 'Are you sure you want to leave?';
 
